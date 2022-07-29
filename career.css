@@ -1,0 +1,75 @@
+/*Navbar */
+.navbar-logo{
+    /* margin-left: 0px; */
+    max-width:175px;
+    }
+    .navbar-ul{
+        margin-right:350px;
+        font-size: 20px;
+    }
+    .nav-ul{
+        margin-left:520px;
+    }
+
+    /* footer */
+
+.footer-logo{
+    /* margin-left: 50px; */
+    width:80%;
+    /* margin-bottom: 60px; */
+    }
+
+ul{
+    list-style: none;
+    margin-top: 10px;
+}
+.btn{
+    margin-left:20px;
+}
+
+
+/* Cards */
+
+.card-title {
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+/* .card{
+    border: 1px solid black;
+} */
+.card:hover{
+    border: 1px solid black;
+}
+.card h3{
+    font-size: 30px;
+    text-align: center;
+}
+.i-cards{
+    text-align: center;
+    margin-top: 60px;
+} 
+
+/* buttons */
+.btn-cards{
+    /* text-align: center; */
+    margin-left: 128px;
+    margin-top: 30px;
+}
+
+@media (max-width:1000px)
+{
+/*Navbar */
+.navbar-logo{
+    /* margin-left: 0px; */
+    max-width:175px;
+    }
+    .navbar-ul{
+        margin-right:350px;
+        font-size: 20px;
+    }
+    .nav-ul{
+        margin-left:20px;
+    }
+}

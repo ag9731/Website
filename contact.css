@@ -1,0 +1,44 @@
+/*Navbar */
+.navbar-logo{
+    /* margin-left: 0px; */
+    max-width:175px;
+    }
+    .navbar-ul{
+        margin-right:350px;
+        font-size: 20px;
+    }
+    .nav-ul{
+        margin-left:520px;
+    }
+
+    /* footer */
+
+.footer-logo{
+    /* margin-left: 50px; */
+    width:80%;
+    /* margin-bottom: 60px; */
+    }
+
+ul{
+    list-style: none;
+    margin-top: 10px;
+}
+.btn{
+    margin-left:20px;
+}
+
+@media (max-width:1000px)
+{
+/*Navbar */
+.navbar-logo{
+    /* margin-left: 0px; */
+    max-width:175px;
+    }
+    .navbar-ul{
+        margin-right:350px;
+        font-size: 20px;
+    }
+    .nav-ul{
+        margin-left:20px;
+    }
+}

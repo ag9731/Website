@@ -1,0 +1,139 @@
+
+
+/*Navbar */
+.navbar-logo{
+/* margin-left: 0px; */
+max-width:175px;
+}
+.navbar-ul{
+    margin-right:350px;
+    font-size: 20px;
+}
+.nav-ul{
+    margin-left:520px;
+}
+/* Banner Section */
+.banner-margin{
+    margin-top:95px;
+    /* background-color: lightgray; */
+}
+
+.banner-h1{
+    font-size: 50px;
+}
+.banner-h6{
+    font-size: 20px;
+}
+
+.main{
+    background: #f8f9fa;
+}
+
+.services{
+    background-color: blue;
+}
+/* cards */
+
+.card-title {
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+/* .card{
+    border: 1px solid black;
+} */
+.card:hover{
+    border: 1px solid black;
+}
+.card h3{
+    font-size: 30px;
+    text-align: center;
+}
+.i-cards{
+    text-align: center;
+    margin-top: 60px;
+} 
+
+/* buttons */
+.btn-cards{
+    /* text-align: center; */
+    margin-left: 128px;
+    margin-top: 30px;
+}
+
+.btn-xl {
+    padding: 10px 30px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.btn-contact-us
+{
+    margin-left:250px;
+    margin-top:50px;
+    
+}
+
+/* Image carousal*/
+
+
+
+
+
+
+
+
+
+
+
+/* Contact us */
+.h1_font_size{
+    font-size: 50px;
+}
+
+/* footer */
+
+.footer-logo{
+    /* margin-left: 50px; */
+    width:80%;
+    /* margin-bottom: 60px; */
+    }
+
+ul{
+    list-style: none;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+@media (max-width:1000px)
+{
+/*Navbar */
+.navbar-logo{
+    /* margin-left: 0px; */
+    max-width:175px;
+    }
+    .navbar-ul{
+        margin-right:350px;
+        font-size: 20px;
+    }
+    .nav-ul{
+        margin-left:20px;
+    }
+
+    .btn-contact-us
+{
+    margin-left:100px;
+    margin-top: 50px;
+}
+.btn-xl {
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+}

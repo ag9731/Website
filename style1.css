@@ -1,0 +1,28 @@
+/*Navbar */
+.navbar-logo{
+    /* margin-left: 0px; */
+    max-width:175px;
+    }
+    .navbar-ul{
+        margin-right:350px;
+        font-size: 20px;
+    }
+    .nav-ul{
+        margin-left:520px;
+    }
+
+
+
+    i{
+        text-align: center;
+        margin-top: 100px;
+       
+        
+    }
+
+
+.card-header{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
